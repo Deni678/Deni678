@@ -1,5 +1,6 @@
 <!--
 **Deni678/Deni678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/a94277b6-aa9a-440d-8116-720390bdd847" />
 
 Here are some ideas to get you started:
 
